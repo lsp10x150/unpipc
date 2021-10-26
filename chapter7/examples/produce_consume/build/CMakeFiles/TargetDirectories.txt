@@ -1,0 +1,3 @@
+/home/lsp10/Workspace/tasks/books/unpipc/chapter7/examples/produce_consume/build/CMakeFiles/rebuild_cache.dir
+/home/lsp10/Workspace/tasks/books/unpipc/chapter7/examples/produce_consume/build/CMakeFiles/edit_cache.dir
+/home/lsp10/Workspace/tasks/books/unpipc/chapter7/examples/produce_consume/build/CMakeFiles/pthread_produce_consume.dir

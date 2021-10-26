@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lsp10/Workspace/tasks/books/unpipc/chapter7/examples/produce_consume/main.cpp
+iostream
+-
+pthread.h
+-
+
