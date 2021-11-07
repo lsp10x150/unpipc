@@ -1,6 +1,7 @@
 #include	"unpipc.h"
 #include	<syslog.h>
-
+#include 	<stdlib.h>
+#include 	<signal.h>
 #define	MAXFD	64
 
 extern int	daemon_proc;	/* defined in error.c */
