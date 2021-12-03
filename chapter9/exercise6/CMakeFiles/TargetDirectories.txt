@@ -1,0 +1,3 @@
+/home/lsp/Workspace/unpipc/chapter9/exercise6/CMakeFiles/rebuild_cache.dir
+/home/lsp/Workspace/unpipc/chapter9/exercise6/CMakeFiles/edit_cache.dir
+/home/lsp/Workspace/unpipc/chapter9/exercise6/CMakeFiles/exercise6.dir

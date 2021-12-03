@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/exercise4.dir/main.c.o -o exercise4 
