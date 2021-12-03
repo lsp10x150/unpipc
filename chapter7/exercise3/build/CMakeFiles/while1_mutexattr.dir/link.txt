@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/while1_mutexattr.dir/main.cpp.o  -o while1_mutexattr  -lpthread 

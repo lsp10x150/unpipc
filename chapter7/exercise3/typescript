@@ -1,0 +1,23 @@
+Script started on 2021-10-27 11:35:55+03:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+]0;lsp10@lsp10: ~/CLionProjects/while1_mutexattr/cmake-build-debug[01;32mlsp10@lsp10[00m:[01;34m~/CLionProjects/while1_mutexattr/cmake-build-debug[00m$ valgring[Kd --tool= memcheck ./while1_mutexattr 
+==5818== Memcheck, a memory error detector
+==5818== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==5818== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==5818== Command: ./while1_mutexattr
+==5818== 
+^C==5818== 
+==5818== Process terminating with default action of signal 2 (SIGINT)
+==5818==    at 0x109181: main (main.cpp:9)
+==5818== 
+==5818== HEAP SUMMARY:
+==5818==     in use at exit: 0 bytes in 0 blocks
+==5818==   total heap usage: 1 allocs, 1 frees, 72,704 bytes allocated
+==5818== 
+==5818== All heap blocks were freed -- no leaks are possible
+==5818== 
+==5818== For lists of detected and suppressed errors, rerun with: -s
+==5818== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+]0;lsp10@lsp10: ~/CLionProjects/while1_mutexattr/cmake-build-debug[01;32mlsp10@lsp10[00m:[01;34m~/CLionProjects/while1_mutexattr/cmake-build-debug[00m$ s[Kexit
+
+Script done on 2021-10-27 11:36:16+03:00 [COMMAND_EXIT_CODE="130"]

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/pthread_produce_consume.dir/main.cpp.o  -o pthread_produce_consume  -lpthread 
